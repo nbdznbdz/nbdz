@@ -115,7 +115,8 @@
 
 **Moonlight串流后游戏机没声音：**  
 
-不勾选此项配置：![descript](Aspose.Words.171b719d-f850-4a69-ae7a-2a8952b866e3.005.png)
+不勾选此项配置：  
+![descript](Aspose.Words.171b719d-f850-4a69-ae7a-2a8952b866e3.005.png)
 
 **Moonlight串流602错误：**  
 ![descript](Aspose.Words.171b719d-f850-4a69-ae7a-2a8952b866e3.006.png)  <br>
