@@ -125,19 +125,18 @@ Moonlight设置中不勾选此项配置：  <br>
 还有一种解决方案，安装更低版本的GeForce\_Experience  <br>
 （[//us.download.nvidia.com/GFE/GFEClient/3.23.0.74/GeForce_Experience_v3.23.0.74.exe](https://us.download.nvidia.com/GFE/GFEClient/3.23.0.74/GeForce_Experience_v3.23.0.74.exe)）
 
-## **下载地址**
+## **下载地址**  
+
 <https://wwrr.lanzoul.com/b0f4jvb9a>
 
 密码:nbdz
 
-![](Aspose.Words.171b719d-f850-4a69-ae7a-2a8952b866e3.008.png)
 
 ##
 
-## **黑号购买**
-高质量黑号，可以用来体验内存功能、娱乐功能
+## **黑号购买**  
 
-![](Aspose.Words.171b719d-f850-4a69-ae7a-2a8952b866e3.009.png)
+高质量黑号，可以用来体验内存功能、娱乐功能
 
 <http://shop.ksfka.com/links/9D82CC0C>
 
