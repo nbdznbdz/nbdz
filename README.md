@@ -11,9 +11,9 @@
 - **查询助手：** 快捷查询个人数据、处罚记录、举报记录、全区角色、信用分、活动信息等
 - **必看说明**** ：**使用说明、通知公告、更新日志都会在此处更新
 
-玩内存功能、可以考虑游戏机安装无盘，可预防机器码！
+> 玩内存功能、可以考虑游戏机安装无盘，可预防机器码！
 
- ![Shape1](RackMultipart20230406-1-kemenq_html_cd4d1963eeb0c0ed.gif)
+![](Aspose.Words.171b719d-f850-4a69-ae7a-2a8952b866e3.001.png)
 
 ##
 
@@ -81,7 +81,7 @@
 
 3、鼠标DPI（调低）
 
- ![Shape2](RackMultipart20230406-1-kemenq_html_cd4d1963eeb0c0ed.gif)
+![](Aspose.Words.171b719d-f850-4a69-ae7a-2a8952b866e3.002.png)
 
 ##
 
@@ -114,43 +114,41 @@
 
 **KMBOX**** 突然不自瞄：**3种方案：
 
+	
 - 重启游戏机；
-- 网盘内下载uPyCraft工具，然后根据下图所示，点击Tools菜单下的选Serial菜单下的自己KMBOX对应的串口号，连接成功后，点击右侧的 ![](RackMultipart20230406-1-kemenq_html_c0f3351b6b36d975.png)断开连接即可。若问题还未得到解决，请检测自己的KMBOX设备是否正常
 
-![](RackMultipart20230406-1-kemenq_html_93f6112abf3f1cd5.png)
+- 网盘内下载uPyCraft工具，然后根据下图所示，点击Tools菜单下的选Serial菜单下的自己KMBOX对应的串口号，连接成功后，点击右侧的![descript](Aspose.Words.171b719d-f850-4a69-ae7a-2a8952b866e3.003.png)断开连接即可。若问题还未得到解决，请检测自己的KMBOX设备是否正常
+![descript](Aspose.Words.171b719d-f850-4a69-ae7a-2a8952b866e3.004.png)
 
 - 重新拔插各个接口后重试。
 
-**Moonlight**** 串流后游戏机没声音：**
+**Moonlight串流后游戏机没声音：**
 
-不勾选此项配置： ![](RackMultipart20230406-1-kemenq_html_6b9119e3594ce108.png)
+不勾选此项配置：![descript](Aspose.Words.171b719d-f850-4a69-ae7a-2a8952b866e3.005.png)
 
-**Moonlight**** 串流 ****602**** 错误：**
+**Moonlight串流602错误：**
 
-![](RackMultipart20230406-1-kemenq_html_de595b94e976891e.png)
+![descript](Aspose.Words.171b719d-f850-4a69-ae7a-2a8952b866e3.006.png)
+Moonlight设置中不勾选此项配置：![descript](Aspose.Words.171b719d-f850-4a69-ae7a-2a8952b866e3.007.png)
+还有一种解决方案，安装更低版本的GeForce\_Experience（[//us.download.nvidia.com/GFE/GFEClient/3.23.0.74/GeForce_Experience_v3.23.0.74.exe](https://us.download.nvidia.com/GFE/GFEClient/3.23.0.74/GeForce_Experience_v3.23.0.74.exe)）
 
-Moonlight设置中不勾选此项配置： ![](RackMultipart20230406-1-kemenq_html_6c9971ad1a0e45ec.png)
-
-还有一种解决方案，安装更低版本的GeForce\_Experience（[//us.download.nvidia.com/GFE/GFEClient/3.23.0.74/GeForce\_Experience\_v3.23.0.74.exe](../inline)）
-
-## 下载地址
-
-[https://wwrr.lanzoul.com/b0f4jvb9a](../card)
+## **下载地址**
+<https://wwrr.lanzoul.com/b0f4jvb9a>
 
 密码:nbdz
 
- ![Shape3](RackMultipart20230406-1-kemenq_html_cd4d1963eeb0c0ed.gif)
+![](Aspose.Words.171b719d-f850-4a69-ae7a-2a8952b866e3.008.png)
+
 ##
 
-## 黑号购买
-
+## **黑号购买**
 高质量黑号，可以用来体验内存功能、娱乐功能
 
- ![Shape4](RackMultipart20230406-1-kemenq_html_cd4d1963eeb0c0ed.gif)
+![](Aspose.Words.171b719d-f850-4a69-ae7a-2a8952b866e3.009.png)
 
-[http://shop.ksfka.com/links/9D82CC0C](../card)
+<http://shop.ksfka.com/links/9D82CC0C>
 
-[https://www.lklfk.com/links/EF12D6D9](../card)
+<https://www.lklfk.com/links/EF12D6D9>
 
 ## CF防盗科普
 
