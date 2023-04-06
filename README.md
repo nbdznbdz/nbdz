@@ -118,10 +118,10 @@
 不勾选此项配置：![descript](Aspose.Words.171b719d-f850-4a69-ae7a-2a8952b866e3.005.png)
 
 **Moonlight串流602错误：**
-![descript](Aspose.Words.171b719d-f850-4a69-ae7a-2a8952b866e3.006.png)  <br>
-Moonlight设置中不勾选此项配置：  <br>
-![descript](Aspose.Words.171b719d-f850-4a69-ae7a-2a8952b866e3.007.png)  <br>
-还有一种解决方案，安装更低版本的GeForce\_Experience  <br>
+![descript](Aspose.Words.171b719d-f850-4a69-ae7a-2a8952b866e3.006.png)  <br><br>
+Moonlight设置中不勾选此项配置：  <br><br>
+![descript](Aspose.Words.171b719d-f850-4a69-ae7a-2a8952b866e3.007.png)  <br><br>
+还有一种解决方案，安装更低版本的GeForce\_Experience  <br><br>
 （[//us.download.nvidia.com/GFE/GFEClient/3.23.0.74/GeForce_Experience_v3.23.0.74.exe](https://us.download.nvidia.com/GFE/GFEClient/3.23.0.74/GeForce_Experience_v3.23.0.74.exe)）
 
 ## **下载地址**
