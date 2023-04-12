@@ -125,6 +125,10 @@ Moonlight设置中不勾选此项配置：  <br>
 还有一种解决方案，安装更低版本的GeForce\_Experience  <br>
 （[//us.download.nvidia.com/GFE/GFEClient/3.23.0.74/GeForce_Experience_v3.23.0.74.exe](https://us.download.nvidia.com/GFE/GFEClient/3.23.0.74/GeForce_Experience_v3.23.0.74.exe)）
 
+**内置自瞄模式初始化失败：** 游戏机按键鼠标随便按一下，重试即可
+
+
+
 ## **下载地址**  
 
 <https://wwrr.lanzoul.com/b0f4jvb9a>
